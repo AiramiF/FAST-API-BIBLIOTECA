@@ -63,4 +63,4 @@ Los listados de recursos admiten `skip` y `limit` (máximo 100); el reporte de l
 
 ## Integrantes
 
-Por definir.
+Maria Fernanda Gonzalez Diaz de ADSO 3230935
